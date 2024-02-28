@@ -1,0 +1,1 @@
+# Rastgele-Uretilen-Sayinin-Tau-Sayisi-Olup-Olmadigini-Bulma
